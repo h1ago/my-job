@@ -1,0 +1,9 @@
+node_modules/
+
+src/infra/persistence/jobs-data.json
+src/infra/persistence/posts-data.json
+src/config/search.config.ts
+
+.env
+package-lock.json
+yarn.lock
