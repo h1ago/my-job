@@ -1,0 +1,8 @@
+node_modules/
+
+src/infra/persistence/data/
+src/config/search.config.ts
+
+.env
+package-lock.json
+yarn.lock
